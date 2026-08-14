@@ -8,3 +8,13 @@ Console.WriteLine("4. View device details");
 Console.WriteLine("5. Exit");
 
 string optionChoice = Console.ReadLine();
+
+if (optionChoice == "1")
+{
+    ViewDevices();
+}
+
+static void ViewDevices()
+{
+    Console.WriteLine(\\"No devices found.");
+}

@@ -16,7 +16,6 @@ if (optionChoice == "1")
 {
     ViewDevices();
 }
-
 if (optionChoice == "2")
 {
     AddDevice();

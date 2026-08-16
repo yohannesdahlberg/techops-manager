@@ -16,5 +16,5 @@ if (optionChoice == "1")
 
 static void ViewDevices()
 {
-    Console.WriteLine(\\"No devices found.");
+    Console.WriteLine("No devices found.");
 }
